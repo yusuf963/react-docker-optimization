@@ -27,3 +27,7 @@ Start Docker container
 ```sh
 docker run -d -p 8080:80 react-nginx
 ```
+
+
+// toturial link on Meduim
+https://medium.com/swlh/how-we-reduced-react-docker-image-by-17x-cd684898470f
