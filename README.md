@@ -30,4 +30,5 @@ docker run -d -p 8080:80 react-nginx
 
 
 // toturial link on Meduim
+https://faun.pub/decreasing-your-node-js-docker-image-size-by-90-84cc1b1093d9
 https://medium.com/swlh/how-we-reduced-react-docker-image-by-17x-cd684898470f
